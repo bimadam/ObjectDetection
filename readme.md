@@ -20,8 +20,7 @@ pip install imageai --upgrade
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
 ```
 
-3) Download **Tiny Yolo V3** model from [here](https://drive.google.com/file/d/1WdOF4NGx1JKzLhLetLMppvokwiYSIa9s/view?usp=sharing).
-
+3. Download **Tiny Yolo V3** model from [here](https://drive.google.com/file/d/1WdOF4NGx1JKzLhLetLMppvokwiYSIa9s/view?usp=sharing).
 4. Create folder and put **recognition.py** and **tiny-yolov3.pt** in it.
 5. Create two folders: **Input** and **Output**.
 
