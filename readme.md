@@ -33,6 +33,8 @@ This is how your folder should look. (**newimage.jpg** is created after running 
 
 1. Put any image in **Input** folder. Please note that image has to be **.jpg**.
 2. Just run **recognition.py**. Your output should look like this:
+
 ![output](https://i.imgur.com/A9jqLgq.png)
 3. After running **recognition.py** was created **newimage.jpg** in **Output** folder where you can see detected objects.
+
 ![image](https://i.imgur.com/rmNkpNu.jpg)
