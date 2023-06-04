@@ -25,8 +25,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 4. Create folder and put **recognition.py** and **tiny-yolov3.pt** in it.
 5. Create two folders: **Input** and **Output**.
 
-This is how your folder should look. (**newimage.jpg** is created after running a code)
-![folders](https://i.imgur.com/cToX3wN.png)
+This is how your folder should look. (**newimage.jpg** is created after running a code)![folders](https://i.imgur.com/cToX3wN.png)
 
 ## Usage
 
